@@ -1,3 +1,4 @@
+from slackbot.bot import respond_to
 from slackbot.bot import Bot
 def main():
     bot = Bot()
