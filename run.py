@@ -1,5 +1,7 @@
-from slackbot.bot import respond_to
 from slackbot.bot import Bot
+from slackbot import settings
+from slackbot.bot import Bot
+
 def main():
     bot = Bot()
     bot.run()
