@@ -4,4 +4,4 @@ ERROT_TO = "general"
 PLUGINS = [
     'slackbot.plugins',
 ]
-DEFAULT_REPLY = "Sorry but I didn't understand you"
+DEFAULT_REPLY = "Sorry but I didn't understand you!!"
