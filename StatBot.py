@@ -11,11 +11,11 @@ def hi(message):
     # react with thumb up emoji
     message.react('+1')
 
-@respond_to('I love you')
+@respond_to('i love you', re.IGNORECASE)
 def love(message):
     message.reply('I love you too!')
 
-@listen_to('Can someone help me?')
+@listen_to('can someone help me?', re.IGNORECASE)
 def help(message):
     # Message is replied to the sender (prefixed with @user)
     message.reply('Yes, I can!')
