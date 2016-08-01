@@ -1,0 +1,1910 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "xoxp-59142886803-59206034529-64873573349-06b540efa2",
+            "ts": "1470003818.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you!!",
+            "ts": "1469750800.000007"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: lol",
+            "ts": "1469750799.000006"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: I can understand hi or HI!",
+            "ts": "1469750665.000005"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: get all the stats for this channel",
+            "ts": "1469750663.000004",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1R68GKRQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: hello sender!",
+            "ts": "1469750638.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469750638.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Team Member:  Daniel Maxson\n\u25cb    Role:  Developer\n\u25cb    Specific Tasks:  \n\u25a0    Task 1: StatBot functionality programming",
+            "ts": "1469667285.000073"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<@U1R4CQCMR>",
+            "ts": "1469667252.000071"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "bitch",
+            "ts": "1469667210.000070"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "^ that format",
+            "ts": "1469667204.000069"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "Team Member:  Conner Simmering\n\u25cb    Role:  Backend Developer\n\u25cb    Specific Tasks:  \n\u25a0    Task 1: Program the slack bot functionality in python",
+            "ts": "1469667159.000068"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "\u25cf    Team Member:  Jesse Bird\n\u25cb    Role:  UI and Presentation Designer\n\u25cb    Specific Tasks:  \n\u25a0    Task 1: Design bot icon and statistic interfaces\n\u25a0    Task 2: Design and Implement Presentation",
+            "edited": {
+                "user": "U1R665WUA",
+                "ts": "1469667325.000000"
+            },
+            "ts": "1469667136.000067"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "Everybody please send one with your stuff",
+            "ts": "1469667077.000066"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "\u25cf\tTeam Member:  Frederik Lohner\n\u25cb\tRole:  whatever internal name or collection of names makes sense internal to the team.\n\u25cb\tSpecific Tasks:  \n\u25a0\tTask 1: {can begin with Project report elements, perhaps coding {just your local name\/short description}, or anything that makes sense to YOU.}\n\u25a0\tTask 2:\n\u25a0\t....",
+            "ts": "1469667072.000065"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I can understand hi or HI!",
+            "ts": "1469664862.000064"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hi",
+            "ts": "1469664862.000063",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1R68GKRQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "can someone help me?",
+            "ts": "1469664857.000062"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "can someone help me",
+            "ts": "1469664850.000061"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I can understand hi or HI!",
+            "ts": "1469664738.000060"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hi",
+            "ts": "1469664738.000059",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1R68GKRQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "hi",
+            "ts": "1469664728.000058"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Yes, I can!",
+            "ts": "1469664720.000057"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Can someone help me?",
+            "ts": "1469664719.000056"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I love you too!",
+            "ts": "1469664710.000055"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:  I love you",
+            "ts": "1469664709.000054"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469664703.000053"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469664702.000052"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you!!",
+            "ts": "1469664582.000051"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469664581.000050"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you!!",
+            "ts": "1469664578.000049"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469664577.000048"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you!!",
+            "ts": "1469664574.000047"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: I love you",
+            "ts": "1469664573.000046"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469664562.000045"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469664561.000044"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "\/giphy Daniel Maxson",
+            "attachments": [
+                {
+                    "fallback": "giphy: <http:\/\/giphy.com\/gifs\/daniel-dmtn-12FzwLWppc9IrK>",
+                    "image_url": "http:\/\/media2.giphy.com\/media\/12FzwLWppc9IrK\/giphy.gif",
+                    "image_width": 500,
+                    "image_height": 176,
+                    "image_bytes": 551135,
+                    "is_animated": true,
+                    "title": "Daniel Maxson",
+                    "id": 1,
+                    "title_link": "http:\/\/giphy.com\/gifs\/daniel-dmtn-12FzwLWppc9IrK"
+                }
+            ],
+            "ts": "1469664406.000043"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "\/giphy andy",
+            "attachments": [
+                {
+                    "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-spoilers-outlander-LSNqpYqGRqwrS>",
+                    "image_url": "http:\/\/media0.giphy.com\/media\/LSNqpYqGRqwrS\/giphy.gif",
+                    "image_width": 300,
+                    "image_height": 169,
+                    "image_bytes": 511257,
+                    "is_animated": true,
+                    "title": "andy",
+                    "id": 1,
+                    "title_link": "http:\/\/giphy.com\/gifs\/reaction-spoilers-outlander-LSNqpYqGRqwrS"
+                }
+            ],
+            "ts": "1469664399.000042"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<http:\/\/i.imgur.com\/EeF0xdn.gifv>",
+            "attachments": [
+                {
+                    "service_name": "Imgur",
+                    "title": "Imgur GIF",
+                    "title_link": "http:\/\/i.imgur.com\/EeF0xdn.gifv",
+                    "fallback": "Imgur: Imgur GIF",
+                    "thumb_url": "https:\/\/i.imgur.com\/EeF0xdnh.jpg",
+                    "video_html_width": "480",
+                    "video_html_height": "480",
+                    "video_url": "https:\/\/i.imgur.com\/EeF0xdn.mp4",
+                    "video_html": "<video poster=\"https:\/\/i.imgur.com\/EeF0xdnh.jpg\" src=\"https:\/\/i.imgur.com\/EeF0xdn.mp4\" width=\"480\" height=\"480\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline><\/video>",
+                    "from_url": "http:\/\/i.imgur.com\/EeF0xdn.gifv",
+                    "thumb_width": 480,
+                    "thumb_height": 480,
+                    "service_icon": "http:\/\/i.imgur.com\/favicon.ico",
+                    "id": 1
+                }
+            ],
+            "ts": "1469664362.000040"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I love you too!",
+            "ts": "1469664180.000039"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469664179.000038"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469664172.000037"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469664172.000036"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "<https:\/\/avatars.githubusercontent.com\/u\/4282928?v=3>",
+            "attachments": [
+                {
+                    "fallback": "460x460px image",
+                    "image_url": "https:\/\/avatars.githubusercontent.com\/u\/4282928?v=3",
+                    "image_width": 460,
+                    "image_height": 460,
+                    "image_bytes": 28602,
+                    "from_url": "https:\/\/avatars.githubusercontent.com\/u\/4282928?v=3",
+                    "id": 1
+                }
+            ],
+            "ts": "1469664112.000034"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "TinderBae",
+            "ts": "1469664082.000033"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<http:\/\/www.lovedroids.com\/images\/botwoman.jpg>",
+            "attachments": [
+                {
+                    "fallback": "230x325px image",
+                    "image_url": "http:\/\/www.lovedroids.com\/images\/botwoman.jpg",
+                    "image_width": 230,
+                    "image_height": 325,
+                    "image_bytes": 23392,
+                    "from_url": "http:\/\/www.lovedroids.com\/images\/botwoman.jpg",
+                    "id": 1
+                }
+            ],
+            "ts": "1469664075.000031"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<http:\/\/f1.pepst.com\/c\/D903BF\/38158\/ssc3\/home\/043\/poopie.scoops\/dairy_queen.jpg_480_480_0_64000_0_1_0.jpg>",
+            "attachments": [
+                {
+                    "fallback": "228x304px image",
+                    "image_url": "http:\/\/f1.pepst.com\/c\/D903BF\/38158\/ssc3\/home\/043\/poopie.scoops\/dairy_queen.jpg_480_480_0_64000_0_1_0.jpg",
+                    "image_width": 228,
+                    "image_height": 304,
+                    "image_bytes": 14837,
+                    "from_url": "http:\/\/f1.pepst.com\/c\/D903BF\/38158\/ssc3\/home\/043\/poopie.scoops\/dairy_queen.jpg_480_480_0_64000_0_1_0.jpg",
+                    "id": 1
+                }
+            ],
+            "ts": "1469664052.000029"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/i.ytimg.com\/vi\/vBnesRbELc0\/hqdefault.jpg>",
+            "attachments": [
+                {
+                    "fallback": "480x360px image",
+                    "image_url": "https:\/\/i.ytimg.com\/vi\/vBnesRbELc0\/hqdefault.jpg",
+                    "image_width": 480,
+                    "image_height": 360,
+                    "image_bytes": 24767,
+                    "from_url": "https:\/\/i.ytimg.com\/vi\/vBnesRbELc0\/hqdefault.jpg",
+                    "id": 1
+                }
+            ],
+            "ts": "1469664024.000027"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "from slackbot.bot import Bot\nfrom slackbot import settings\nfrom slackbot.bot import respond_to\n\ndef main():\n    \n    @respond_to('hola')\n    def hola(message):\n        message.reply('yolloha')\n\n    bot = Bot()\n    bot.run()\n\nif __name__ == \"__main__\":\n    main()",
+            "ts": "1469663757.000026"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: yolloha",
+            "ts": "1469663690.000025"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469663689.000024"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: yolloha",
+            "ts": "1469663051.000023"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469663050.000022"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Bad command \"hola\", You can ask me one of the following questions:\n\n    \u2022 `hello_decorators` \n    \u2022 `hello$` \n    \u2022 `\u4f60\u597d` \n    \u2022 `hello_formatting` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `^reply_webapi$` ",
+            "ts": "1469663019.000021"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469663018.000020"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: yolloha",
+            "ts": "1469662906.000019"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469662906.000018"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you!!",
+            "ts": "1469662835.000017"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469662834.000016"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/IQbtcUYs>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from SwissSnarf (1500?)",
+                    "title_link": "https:\/\/lichess.org\/IQbtcUYs",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from SwissSnarf (1500?)",
+                    "from_url": "https:\/\/lichess.org\/IQbtcUYs",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1469662777.000014"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \" gsoig\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` ",
+            "ts": "1469662526.000013"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:  gsoig",
+            "ts": "1469662526.000012"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469662522.000011"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469662522.000010"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \" askfhdads\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` ",
+            "ts": "1469662409.000009"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:  askfhdads",
+            "ts": "1469662408.000008"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469662405.000007"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469662404.000006"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"sdfls\", You can ask me one of the following questions:\n\n    \u2022 `^reply_webapi$` \n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `hello_formatting` ",
+            "ts": "1469662340.000005"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: sdfls",
+            "ts": "1469662339.000004"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469662334.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469662333.000002"
+        },
+        {
+            "type": "message",
+            "subtype": "file_share",
+            "text": "<@U1R5G4DPE|fredloh> uploaded a file: <https:\/\/teamgaintrain.slack.com\/files\/fredloh\/F1VDXPNQ7\/project_proposal.docx|Project Proposal.docx>",
+            "file": {
+                "id": "F1VDXPNQ7",
+                "created": 1469579736,
+                "timestamp": 1469579736,
+                "name": "Project Proposal.docx",
+                "title": "Project Proposal.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U1R5G4DPE",
+                "editable": false,
+                "size": 108084,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T1R46S2PM-F1VDXPNQ7\/project_proposal.docx",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1R46S2PM-F1VDXPNQ7\/download\/project_proposal.docx",
+                "permalink": "https:\/\/teamgaintrain.slack.com\/files\/fredloh\/F1VDXPNQ7\/project_proposal.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T1R46S2PM-F1VDXPNQ7-a79a048ea5",
+                "channels": [
+                    "C1R5Z1FT3"
+                ],
+                "groups": [],
+                "ims": [],
+                "comments_count": 0
+            },
+            "user": "U1R5G4DPE",
+            "upload": true,
+            "display_as_bot": false,
+            "username": "<@U1R5G4DPE|fredloh>",
+            "bot_id": null,
+            "ts": "1469579737.000005"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "also we can say we provide free alternative to slacks statistics which are behind a pay wall",
+            "ts": "1469579416.000004"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: as",
+            "ts": "1469579132.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "export SLACKBOT_API_TOKEN='xoxb-59212563874-wT6re9ued5ctLZFm0VRmwCYm'",
+            "ts": "1469578824.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "In the submitting folder of the google drive ",
+            "ts": "1469554270.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "Guys wheres our precis?",
+            "ts": "1469554115.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469158501.000054"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469158500.000053"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "pushed changes",
+            "ts": "1469148944.000052"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "fixing",
+            "ts": "1469148732.000051"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469148261.000050"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469148260.000049"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469148255.000048"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hi",
+            "ts": "1469148254.000047"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469147993.000046"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469147993.000045"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469147927.000044"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: I love you",
+            "ts": "1469147927.000043"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469147859.000042"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: I love you",
+            "ts": "1469147858.000041"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469147455.000040"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469147454.000039"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469147439.000038"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: I love you",
+            "ts": "1469147439.000037"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you CONNER MA BOY",
+            "ts": "1469146541.000036"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469146540.000035"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you CHANGES",
+            "ts": "1469146530.000034"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469146529.000033"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you CHANGES",
+            "ts": "1469146394.000032"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469146394.000031"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1469146356.000030"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469146356.000029"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Bad command \"hola\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` ",
+            "ts": "1469146295.000028"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hola",
+            "ts": "1469146294.000027"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"i love you\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` ",
+            "ts": "1469146292.000026"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469146291.000025"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469146286.000024"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@USLACKBOT>: hola",
+            "ts": "1469146285.000023"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469146285.000022"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "<https:\/\/drive.google.com\/open?id=0B4Q1UiljUzQWVW82SFpsM0FqWFU>",
+            "ts": "1469146240.000021"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469146175.000020"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469146174.000019"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469146167.000018"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469146166.000017"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469146126.000016"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469146125.000015"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469145930.000014"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469145930.000013"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469145924.000012"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: upload",
+            "ts": "1469145923.000011"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "Great find simmerinc!",
+            "ts": "1469145478.000010"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "then you find this:  <https:\/\/api.slack.com\/methods\/channels.history>",
+            "ts": "1469145460.000009",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1R5G4DPE"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<https:\/\/api.slack.com\/bot-users>",
+            "ts": "1469145440.000008"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469145315.000007"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469145315.000006"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469145278.000005"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "hello",
+            "ts": "1469145268.000004"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@USLACKBOT>:",
+            "ts": "1469145265.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<https:\/\/drive.google.com\/a\/colorado.edu\/folderview?id=0B4Q1UiljUzQWVW82SFpsM0FqWFU&amp;usp=sharing>",
+            "ts": "1469144019.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469064910.000104"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469064210.000103"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: gldkgsd",
+            "ts": "1469064210.000102"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469064206.000101"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469064205.000100"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469064111.000099"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "slackbot_settings.py",
+            "ts": "1469063948.000098"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "import os\nAPI_TOKEN = os.environ.get('SLACKBOT_API_TOKEN')\nERROT_TO = \"general\"\nDEFAULT_REPLY = \"Sorry but I didn't understand you\"\nPLUGINS = [\n    'slackbot.plugins',\n    'mybot.plugins'\n]",
+            "ts": "1469063931.000097"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469063014.000096"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me",
+            "ts": "1469063013.000095"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469063008.000094"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469063007.000093"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469063003.000092"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469063003.000091"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469062889.000089"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me",
+            "ts": "1469062888.000088"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469062881.000087"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469062880.000086"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469062608.000084"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469062607.000083"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469062548.000082"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: helloo",
+            "ts": "1469062542.000081"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469062504.000080"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me",
+            "ts": "1469062503.000079"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469062497.000078"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: dsksld",
+            "ts": "1469062497.000077"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469062490.000076"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469062490.000075"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "hello!",
+            "ts": "1469062450.000074"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469062435.000073"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"stat me\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` ",
+            "ts": "1469062226.000072"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me",
+            "ts": "1469062225.000071"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469062201.000070"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me",
+            "ts": "1469062201.000069"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469062001.000068"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stat me bro",
+            "ts": "1469062001.000067"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469061973.000066"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: sfd",
+            "ts": "1469061972.000065"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: gsfas",
+            "ts": "1469061949.000064"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469061942.000063"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"ashfaf\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469061891.000062"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: ashfaf",
+            "ts": "1469061890.000061"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"i love you\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469061878.000060"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469061877.000059"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469061871.000058"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469061870.000057"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469061613.000056"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stats1",
+            "ts": "1469061612.000055"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469061589.000054"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469061588.000053"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469061570.000052"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469061569.000051"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469061564.000050"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stats",
+            "ts": "1469061563.000049"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Sorry but I didn't understand you",
+            "ts": "1469061557.000048"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: sasld",
+            "ts": "1469061556.000047"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"sals\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `hello$` \n    \u2022 `hello_formatting` \n    \u2022 `^reply_webapi$` ",
+            "ts": "1469061513.000046"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: sals",
+            "ts": "1469061512.000045"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `hello$` \n    \u2022 `hello_formatting` \n    \u2022 `^reply_webapi$` ",
+            "ts": "1469061426.000044"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469061426.000043"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469061418.000042"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469061418.000041"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469060871.000040"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"i love you\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469060843.000039"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469060842.000038"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469060835.000037"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469060834.000036"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469060825.000035"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469060824.000034"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I'm a robot, BEEP BOOP",
+            "ts": "1469060750.000033"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stats",
+            "ts": "1469060750.000032"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I'm a robot, BEEP BOOP",
+            "ts": "1469060733.000031"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: i love you",
+            "ts": "1469060733.000030"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: I'm a robot, BEEP BOOP",
+            "ts": "1469060712.000029"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469060712.000028"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "<https:\/\/drive.google.com\/open?id=0B4Q1UiljUzQWVW82SFpsM0FqWFU>",
+            "ts": "1469060475.000027"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"rage against the creators?\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469059376.000026"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: rage against the creators?",
+            "ts": "1469059376.000025"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"stats\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469059348.000024"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stats",
+            "ts": "1469059348.000023"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"\", You can ask me one of the following questions:\n\n    \u2022 `\u4f60\u597d` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `hello$` ",
+            "ts": "1469059333.000022"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469059332.000021"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"upload\", You can ask me one of the following questions:\n\n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `\u4f60\u597d` ",
+            "ts": "1469058848.000020"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: upload",
+            "ts": "1469058847.000019"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"\", You can ask me one of the following questions:\n\n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `\u4f60\u597d` ",
+            "ts": "1469058734.000018"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>:",
+            "ts": "1469058734.000017"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "it wasnt working",
+            "ts": "1469058677.000016"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "hrm",
+            "ts": "1469058668.000015"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "run it",
+            "ts": "1469058663.000014"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "yeah",
+            "ts": "1469058662.000013"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "i added the auth token to my env , do i test code changes just by running it? or is it pulling from your git hub?",
+            "ts": "1469058424.000012"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "Sup",
+            "ts": "1469058381.000011"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Yo fredloh",
+            "ts": "1469058377.000010"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"stats\", You can ask me one of the following questions:\n\n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `^reply_webapi$` \n    \u2022 `hello_formatting` \n    \u2022 `\u4f60\u597d` ",
+            "ts": "1469058290.000009"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: stats",
+            "ts": "1469058290.000008"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: hello sender!",
+            "ts": "1469058246.000007"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1469058246.000006"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"statbot stat\", You can ask me one of the following questions:\n\n    \u2022 `^reply_webapi$` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `hello_formatting` \n    \u2022 `\u4f60\u597d` ",
+            "ts": "1469058225.000005"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: statbot stat",
+            "ts": "1469058224.000004"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R5HL728>: Bad command \"hi\", You can ask me one of the following questions:\n\n    \u2022 `^reply_webapi$` \n    \u2022 `hello$` \n    \u2022 `^reply_webapi_not_as_user$` \n    \u2022 `hello_decorators` \n    \u2022 `upload \\&lt;?(.*)\\&gt;?` \n    \u2022 `hello_formatting` \n    \u2022 `\u4f60\u597d` ",
+            "ts": "1469058192.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "<@U1R68GKRQ>: hi",
+            "ts": "1469058191.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/kGvkyR6g>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "title_link": "https:\/\/lichess.org\/kGvkyR6g",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "from_url": "https:\/\/lichess.org\/kGvkyR6g",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468455608.000006"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/JaPoT55R>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "title_link": "https:\/\/lichess.org\/JaPoT55R",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "from_url": "https:\/\/lichess.org\/JaPoT55R",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468454882.000004"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "zshrc",
+            "ts": "1468453582.000003"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Fred, adding the slackbot API_Token to env? in <http:\/\/zsh.ch|zsh.ch>?",
+            "ts": "1468453553.000002"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/ZzbGSoCu>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "title_link": "https:\/\/lichess.org\/ZzbGSoCu",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "from_url": "https:\/\/lichess.org\/ZzbGSoCu",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468371780.000040"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/7H7gCzgE>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "title_link": "https:\/\/lichess.org\/7H7gCzgE",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "from_url": "https:\/\/lichess.org\/7H7gCzgE",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468371042.000038"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/lichess.org\/tm7B2lAy>",
+            "attachments": [
+                {
+                    "service_name": "lichess.org",
+                    "title": "Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "title_link": "https:\/\/lichess.org\/tm7B2lAy",
+                    "text": "Join the challenge or watch the game here.",
+                    "fallback": "lichess.org: Unlimited casual Chess \u2022 Challenge from Anonymous",
+                    "from_url": "https:\/\/lichess.org\/tm7B2lAy",
+                    "service_icon": "http:\/\/lichess1.org\/assets\/images\/favicon-32-white.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468370575.000036"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "slackbot_settings.py",
+            "ts": "1468370176.000035"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "slackbot_settings.py:\n\nAPI_TOKEN = \"xoxb-59212563874-wT6re9ued5ctLZFm0VRmwCYm\u201d\n\n.gitignore:",
+            "ts": "1468370164.000034"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<https:\/\/github.com\/lins05\/slackbot#create-plugins>",
+            "attachments": [
+                {
+                    "service_name": "GitHub",
+                    "title": "lins05\/slackbot",
+                    "title_link": "https:\/\/github.com\/lins05\/slackbot#create-plugins",
+                    "text": "slackbot - A chat bot for Slack (<https:\/\/slack.com>).",
+                    "fallback": "GitHub: lins05\/slackbot",
+                    "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/717363?v=3&s=400",
+                    "from_url": "https:\/\/github.com\/lins05\/slackbot#create-plugins",
+                    "thumb_width": 400,
+                    "thumb_height": 400,
+                    "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468369540.000032"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "xoxb-59212563874-wT6re9ued5ctLZFm0VRmwCYm",
+            "ts": "1468369267.000031"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "xoxb-59212563874-jhI7aaaerjbR7FFD8JwHlp9F",
+            "ts": "1468369195.000030"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<https:\/\/teamgaintrain.slack.com\/apps\/A0F7YS25R-bots>",
+            "attachments": [
+                {
+                    "service_name": "Slack App Directory",
+                    "title": "Bots",
+                    "title_link": "https:\/\/teamgaintrain.slack.com\/apps\/A0F7YS25R-bots",
+                    "text": "Connect a bot to the Slack Real Time Messaging API.",
+                    "fallback": "Slack App Directory: Bots",
+                    "from_url": "https:\/\/teamgaintrain.slack.com\/apps\/A0F7YS25R-bots",
+                    "thumb_url": "https:\/\/a.slack-edge.com\/12b5a\/plugins\/bot\/assets\/service_72.png",
+                    "thumb_width": 72,
+                    "thumb_height": 72,
+                    "service_icon": "https:\/\/a.slack-edge.com\/66f9\/img\/icons\/ios-152.png",
+                    "id": 1
+                }
+            ],
+            "ts": "1468369010.000028"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1468368832.000027"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: fuck",
+            "ts": "1468368832.000026"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: Sorry but I didn't understand you",
+            "ts": "1468368827.000025"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: goodbye",
+            "ts": "1468368826.000024"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "<@U1R6210FK>: hello sender!",
+            "ts": "1468368818.000023"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1468368818.000022"
+        },
+        {
+            "type": "message",
+            "user": "U1R68GKRQ",
+            "text": "hello channel!",
+            "ts": "1468368800.000021"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "hello",
+            "ts": "1468368800.000020"
+        },
+        {
+            "user": "U1R68GKRQ",
+            "inviter": "U1R5G4DPE",
+            "text": "<@U1R68GKRQ|statbot> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468368797.000019"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "<@U1R68GKRQ>: hello",
+            "ts": "1468368792.000018"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "<@USLACKBOT>: hi",
+            "ts": "1468368792.000017"
+        },
+        {
+            "type": "message",
+            "user": "U1R665WUA",
+            "text": "<@USLACKBOT>: hey",
+            "ts": "1468368784.000016"
+        },
+        {
+            "type": "message",
+            "user": "U1R4CQCMR",
+            "text": "mods are asleep, post dank memes",
+            "ts": "1468368764.000015"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "hi slackbot",
+            "ts": "1468368738.000014"
+        },
+        {
+            "type": "message",
+            "user": "USLACKBOT",
+            "text": "Oh hi! :wave: <@U1R4CQCMR|anru9411>, welcome to *Team Gain Train*. How are you today?",
+            "ts": "1468368683.000013"
+        },
+        {
+            "user": "U1R4CQCMR",
+            "text": "<@U1R4CQCMR|andy> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468368683.000012"
+        },
+        {
+            "type": "message",
+            "user": "U1R5G4DPE",
+            "text": "hello",
+            "ts": "1468368624.000011"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Station token\nxoxb-59212563874-4Q2FQRcL4TB6WYXeWJCgWRO1",
+            "ts": "1468368437.000010"
+        },
+        {
+            "type": "message",
+            "user": "U1R5HL728",
+            "text": "Statbot",
+            "ts": "1468368136.000009"
+        },
+        {
+            "type": "message",
+            "user": "U1R6210FK",
+            "text": "fuck sucks",
+            "ts": "1468367850.000008"
+        },
+        {
+            "type": "message",
+            "user": "USLACKBOT",
+            "text": "Welcome, <@U1R6210FK|simmeringc>. Good people of *Team Gain Train*, come say hello!",
+            "ts": "1468367808.000007"
+        },
+        {
+            "user": "U1R6210FK",
+            "text": "<@U1R6210FK|simmeringc> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468367808.000006"
+        },
+        {
+            "type": "message",
+            "user": "USLACKBOT",
+            "text": "Welcome to *Team Gain Train*, <@U1R665WUA|birdman7010>! How's your day?",
+            "ts": "1468367686.000005"
+        },
+        {
+            "user": "U1R665WUA",
+            "text": "<@U1R665WUA|birdman7010> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468367686.000004"
+        },
+        {
+            "type": "message",
+            "user": "USLACKBOT",
+            "text": "Hello <@U1R5HL728|daniel_m>, welcome to *Team Gain Train*. :wave: Everyone, say hi!",
+            "ts": "1468367366.000003"
+        },
+        {
+            "user": "U1R5HL728",
+            "text": "<@U1R5HL728|daniel_m> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468367366.000002"
+        },
+        {
+            "user": "U1R5G4DPE",
+            "text": "<@U1R5G4DPE|fredloh> has joined the channel",
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1468366909.371546"
+        }
+    ],
+    "has_more": false
+}
