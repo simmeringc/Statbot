@@ -4,7 +4,6 @@ import re
 import json
 import plotly.plotly as py
 import plotly.graph_objs as go
-import subprocess
 from pprint import pprint
 from urllib import urlopen
 from slackbot import settings
