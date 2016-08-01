@@ -1,15 +1,16 @@
 import time
 import os
+import re
 import json
-import numpy as np
-import matplotlib.pyplot as plt
+import plotly.plotly as py
+import plotly.graph_objs as go
+import subprocess
 from pprint import pprint
 from urllib import urlopen
 from slackbot import settings
 from collections import defaultdict
 from slackbot.bot import respond_to
 from slackbot.bot import listen_to
-import re
 
 @respond_to('help', re.IGNORECASE)
 def help(message):
@@ -65,42 +66,39 @@ def channel_stats(message):
     }
     message.reply(channel_stats_reply['text'])
 
-    @respond_to('channel_analytics', re.IGNORECASE)
-    def channel_analytics(message):
+# Hardcoded graph but with real data
+@respond_to('channel_analytics', re.IGNORECASE)
+def channel_analytics(message):
 
-        N = 5
-        menMeans = (20, 35, 30, 35, 27)
-        menStd = (2, 3, 4, 1, 2)
+    # Slack user web API token
+    token = os.environ.get('USER_TOKEN')
 
-        ind = np.arange(N)  # the x locations for the groups
-        width = 0.35       # the width of the bars
+    users_endpoint=urlopen('https://slack.com/api/users.list?token='+token+'&pretty=1').read()
+    users_endpoint_result = json.loads(users_endpoint)
+    users_arr = []
+    for i in users_endpoint_result['members']:
+        data = []
+        data.append(i['name'])
+        data.append(i['id'])
+        users_arr.append(data)
 
-        fig, ax = plt.subplots()
-        rects1 = ax.bar(ind, menMeans, width, color='r', yerr=menStd)
+    count_dict = defaultdict(int)
+    len_user_arr = len(users_arr)
+    channel_endpoint = urlopen('https://slack.com/api/channels.history?token='+token+'&channel=C1R5Z1FT3&count=1000&pretty=1').read()
+    channel_endpoint_result = json.loads(channel_endpoint)
+    for i in channel_endpoint_result['messages']:
+        for j in range(0,len_user_arr):
+            if i['user'] == users_arr[j][1]:
+                count_dict[users_arr[j][1]] += 1
 
-        womenMeans = (25, 32, 34, 20, 25)
-        womenStd = (3, 5, 2, 3, 3)
-        rects2 = ax.bar(ind + width, womenMeans, width, color='y', yerr=womenStd)
+    pprint(count_dict)
+    pprint(count_dict[users_arr[0][1]])
 
-        # add some text for labels, title and axes ticks
-        ax.set_ylabel('Scores')
-        ax.set_title('Scores by group and gender')
-        ax.set_xticks(ind + width)
-        ax.set_xticklabels(('G1', 'G2', 'G3', 'G4', 'G5'))
+    labels=[users_arr[0][0],users_arr[1][0],users_arr[2][0],users_arr[3][0],users_arr[4][0],users_arr[5][0],users_arr[6][0],users_arr[7][0]]
 
-        ax.legend((rects1[0], rects2[0]), ('Men', 'Women'))
+    values=[count_dict[users_arr[0][1]],count_dict[users_arr[1][1]],count_dict[users_arr[2][1]],count_dict[users_arr[3][1]],count_dict[users_arr[4][1]],count_dict[users_arr[5][1]],count_dict[users_arr[6][1]], count_dict[users_arr[7][1]]]
 
+    trace=go.Pie(labels=labels,values=values)
+    py.iplot([trace])
 
-        def autolabel(rects):
-            # attach some text labels
-            for rect in rects:
-                height = rect.get_height()
-                ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
-                        '%d' % int(height),
-                        ha='center', va='bottom')
-
-        autolabel(rects1)
-        autolabel(rects2)
-
-        plt.show()
-        message.reply('graphing')
+    message.reply('https://plot.ly/~simmeringc/39/')
